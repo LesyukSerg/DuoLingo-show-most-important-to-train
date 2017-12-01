@@ -4,8 +4,7 @@
 // @version      0.1
 // @description  try to take over the world!
 // @author       You
-// @updateURL   https://download.sf-helper.com/chrome/helper.meta.js
-// @downloadURL https://download.sf-helper.com/chrome/helper.user.js
+
 // @match        https://www.duolingo.com/
 // @grant        none
 // ==/UserScript==
